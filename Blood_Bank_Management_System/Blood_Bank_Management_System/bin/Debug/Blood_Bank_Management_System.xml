@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Blood_Bank_Management_System
+</name>
+</assembly>
+<members>
+<member name="P:Blood_Bank_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.drop_of_blood_240px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.drop_of_blood_96px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.Exit_Round_48px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.file_cabinet_96px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.icons8_doctors_bag_96">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.icons8_drop_of_blood_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.male_user_52px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.syringe_96px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Blood_Bank_Management_System.My.Resources.Resources.user_Login_96px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Blood_Bank_Management_System.BloodBMSvbDbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
