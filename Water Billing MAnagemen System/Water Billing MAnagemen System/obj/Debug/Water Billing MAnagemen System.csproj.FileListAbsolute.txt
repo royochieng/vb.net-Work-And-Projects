@@ -1,0 +1,27 @@
+C:\Users\Jabu_LovBoy\documents\visual studio 2012\Projects\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\Water Billing MAnagemen System.exe.config
+C:\Users\Jabu_LovBoy\documents\visual studio 2012\Projects\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.exe
+C:\Users\Jabu_LovBoy\documents\visual studio 2012\Projects\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.pdb
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\Water Billing MAnagemen System.exe.config
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.exe
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.pdb
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\WaterBillingDb.mdf
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\WaterBillingDb_log.ldf
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\Water Billing MAnagemen System.exe
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\Water Billing MAnagemen System.pdb
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.csprojResolveAssemblyReference.cache
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.Agents.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.Billings.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.Consumers.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.Dashboard.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.Home.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.Login.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.Properties.Resources.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.csproj.GenerateResource.Cache
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\WBMS_Db.mdf
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\WBMS_Db_log.ldf
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water_Billing_MAnagemen_System.AdminLogin.resources
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\Water Billing MAnagemen System.exe.manifest
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\bin\Debug\Water Billing MAnagemen System.application
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.TrustInfo.xml
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.exe.manifest
+H:\Water Billing MAnagemen System\Water Billing MAnagemen System\obj\Debug\Water Billing MAnagemen System.application
